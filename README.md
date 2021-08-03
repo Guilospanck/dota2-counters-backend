@@ -1,5 +1,5 @@
 # Dota 2 Counters - Backend
-Backend hosted on an EC2 Amazon instance to serve as backend to the react native application Dota2CountersReactNative.
+Backend hosted on an EC2 Amazon instance to serve as backend to the react native application [Dota2CountersReactNative](https://github.com/Guilospanck/Dota2CountersReactNative).
 
 ---
 
